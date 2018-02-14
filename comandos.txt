@@ -7,4 +7,4 @@ git git checkout aula
 git reset
 git log
 git tags
-
+git diff
