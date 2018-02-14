@@ -1,0 +1,10 @@
+git clone
+git add .
+git commit
+git push
+git branch
+git git checkout aula
+git reset
+git log
+git tags
+
