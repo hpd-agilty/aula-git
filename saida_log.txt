@@ -1,0 +1,4 @@
+*  (tag: final-aula, aula) 6d7b023 add file comandos.txt (8 minutes ago) <Fabio Coelho>
+*  91f3c3b add file comandos.txt (9 minutes ago) <Fabio Coelho>
+*  (HEAD -> master, origin/master, origin/HEAD) 8ae3ff9 add arquivo aula-git.txt (15 minutes ago) <Fabio Coelho>
+*  90da56e Initial commit (18 minutes ago) <hpd-agilty>
